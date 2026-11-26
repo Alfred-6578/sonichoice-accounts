@@ -11,6 +11,10 @@ npm install
 npm run dev     # localhost:3000
 ```
 
-Figures currently live in the browser; there is no backend yet. See
+Sign in with one of the demo accounts listed on the sign-in page (one per
+role: admin, accountant, viewer; password `sonichoice123`).
+
+Figures, staff and branches currently live in the browser; there is no
+backend yet, so sign-in shapes what each role sees but does not secure the data. See
 [CLAUDE.md](CLAUDE.md) for the data model, the decisions behind it, and what
 the accounting team has and has not confirmed.
